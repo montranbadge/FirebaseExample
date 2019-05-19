@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">bathroom_montran</string>
+    <string name="title_label">This is the bathrooom dashboard</string>
+    <string name="seventh_floor_label">7th Floor</string>
+    <string name="tenth_floor_label">10th Floor</string>
+    <string name="bathroom_one_label">Bathroom One</string>
+    <string name="bathroom_two_label">Bathroom Two</string>
+    <string name="bathroom_three_label">Bathroom Three</string>
+    <string name="bathroom_four_label">Bathroom Four</string>
+    <string name="busy_bathroom_status">1</string>
+    <string name="free_bathroom_status">0</string>
+    <string name="node_name">bathrooms/</string>
+
+
+</resources>

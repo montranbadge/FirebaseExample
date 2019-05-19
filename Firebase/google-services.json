@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "922161890885",
+    "firebase_url": "https://montran-bathrooms.firebaseio.com",
+    "project_id": "montran-bathrooms",
+    "storage_bucket": "montran-bathrooms.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:922161890885:android:9a88e56c3e551265",
+        "android_client_info": {
+          "package_name": "app.bathroom.montran.edu.bathroom_montran"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "922161890885-2t67tb7uii5gfnsi5eeo3lmgtgdu3osg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLSmOoVD3RtJTgXms7eN08qj1xoE1ANA8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "922161890885-2t67tb7uii5gfnsi5eeo3lmgtgdu3osg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
